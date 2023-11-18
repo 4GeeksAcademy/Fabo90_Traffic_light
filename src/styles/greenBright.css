@@ -1,0 +1,9 @@
+.greenBright {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: green;
+    position: relative;
+    top: 10px; left: 42.4%;
+    box-shadow: 0px 0px 27px 2px white;
+};

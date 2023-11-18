@@ -1,0 +1,8 @@
+.green {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    background-color: green;
+    position: relative;
+    top: 10px; left: 42.4%;
+};

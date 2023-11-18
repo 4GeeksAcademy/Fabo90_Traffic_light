@@ -1,0 +1,10 @@
+.blackTop {
+    width: 200px;
+    height: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    background-color: black; 
+    border-radius: 10% 10% 0% 0%;
+    position: absolute;
+    left: 43%;
+};
